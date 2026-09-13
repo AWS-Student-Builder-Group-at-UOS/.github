@@ -56,14 +56,10 @@
 
 클라우드는 남의 데이터센터에 있는 서버를 필요한 만큼 빌려 쓰는 것입니다. 세션에서 나오는 이름 대부분은 아래 네 묶음 안에 있고, 요청 하나가 서버까지 갔다 오는 길은 [웹사이트에 그림으로](https://asbg-uos.vercel.app/ko#cloud) 정리해 뒀습니다.
 
-<table>
-  <tr>
-    <td width="25%" valign="top"><b>Edge</b><br><sub><code>Route 53</code> <code>CloudFront</code> <code>WAF</code></sub></td>
-    <td width="25%" valign="top"><b>Compute</b><br><sub><code>EC2</code> <code>ECS / EKS</code> <code>Lambda</code> <code>Auto Scaling</code></sub></td>
-    <td width="25%" valign="top"><b>Data</b><br><sub><code>RDS</code> <code>DynamoDB</code> <code>S3</code></sub></td>
-    <td width="25%" valign="top"><b>Ops</b><br><sub><code>IAM</code> <code>CloudWatch</code> <code>Budgets</code> <code>Terraform</code></sub></td>
-  </tr>
-</table>
+- **Edge** &nbsp;<sub><code>Route 53</code> <code>CloudFront</code> <code>WAF</code></sub>
+- **Compute** &nbsp;<sub><code>EC2</code> <code>ECS / EKS</code> <code>Lambda</code> <code>Auto Scaling</code></sub>
+- **Data** &nbsp;<sub><code>RDS</code> <code>DynamoDB</code> <code>S3</code></sub>
+- **Ops** &nbsp;<sub><code>IAM</code> <code>CloudWatch</code> <code>Budgets</code> <code>Terraform</code></sub>
 
 순서는 기수마다 다르지만, 한 학기가 끝나면 이 그림을 직접 그려서 설명할 수 있게 되는 것이 목표입니다.
 
@@ -90,7 +86,7 @@ AWS Student Builder Group의 공식 키워드는 Learn, Build, Connect 세 개�
 
 ## 1기 코어팀
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center" width="20%"><a href="https://github.com/ssub17"><img src="https://github.com/ssub17.png?size=144" width="72" alt="손수빈"></a><br><b>손수빈</b><br><sub>Leader</sub></td>
     <td align="center" width="20%"><a href="https://github.com/abroniasj416"><img src="https://github.com/abroniasj416.png?size=144" width="72" alt="황수진"></a><br><b>황수진</b><br><sub>Tech Lead</sub></td>
