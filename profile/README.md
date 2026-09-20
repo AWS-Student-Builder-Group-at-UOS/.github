@@ -1,12 +1,12 @@
-<a href="https://asbg-uos.vercel.app/ko">
+<a href="https://asbg.uos.ac.kr/">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/banner-dark.svg?v=3"><img alt="ASBG UOS · AWS Student Builder Groups at University of Seoul · Put your work online, then keep it running. Learn, Build, Share, Connect." src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/banner-light.svg?v=3" width="100%"></picture>
 </a>
 
 <p align="center">
-  <a href="https://asbg-uos.vercel.app/ko"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-website-dark.svg"><img alt="Website" src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-website-light.svg"></picture></a>&nbsp;
-  <a href="https://asbg-uos.vercel.app/ko/sessions/cohort-01"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-sessions-dark.svg"><img alt="Sessions" src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-sessions-light.svg"></picture></a>&nbsp;
-  <a href="https://asbg-uos.vercel.app/ko/members/cohort-01"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-members-dark.svg"><img alt="Members" src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-members-light.svg"></picture></a>&nbsp;
-  <a href="https://asbg-uos.vercel.app/ko/resources"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-resources-dark.svg"><img alt="Resources" src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-resources-light.svg"></picture></a>
+  <a href="https://asbg.uos.ac.kr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-website-dark.svg"><img alt="Website" src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-website-light.svg"></picture></a>&nbsp;
+  <a href="https://asbg.uos.ac.kr/ko/sessions/cohort-01"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-sessions-dark.svg"><img alt="Sessions" src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-sessions-light.svg"></picture></a>&nbsp;
+  <a href="https://asbg.uos.ac.kr/ko/members/cohort-01"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-members-dark.svg"><img alt="Members" src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-members-light.svg"></picture></a>&nbsp;
+  <a href="https://asbg.uos.ac.kr/ko/resources"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-resources-dark.svg"><img alt="Resources" src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/btn-resources-light.svg"></picture></a>
 </p>
 
 ## 만든 걸 인터넷에 올리고, 계속 돌아가게 하는 법
@@ -15,7 +15,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/core-dark.svg"><img alt="수업은 만들기까지 가르칩니다. 만든 것을 서버에 올리는 올리기와, 트래픽과 비용을 감당하며 계속 돌리는 지키기는 ASBG UOS에서 합니다." src="https://raw.githubusercontent.com/AWS-Student-Builder-Group-at-UOS/.github/main/profile/assets/core-light.svg" width="100%"></picture>
 
-나머지 두 칸을 채우는 곳이 ASBG UOS입니다. 세션마다 무엇을 배우고 만들었는지는 [Sessions](https://asbg-uos.vercel.app/ko/sessions/cohort-01)에 남깁니다.
+나머지 두 칸을 채우는 곳이 ASBG UOS입니다. 세션마다 무엇을 배우고 만들었는지는 [Sessions](https://asbg.uos.ac.kr/ko/sessions/cohort-01)에 남깁니다.
 
 ## 저장소
 
@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-같이 공부하는 멤버들은 웹사이트의 [Members](https://asbg-uos.vercel.app/ko/members/cohort-01) 페이지에 있습니다.
+같이 공부하는 멤버들은 웹사이트의 [Members](https://asbg.uos.ac.kr/ko/members/cohort-01) 페이지에 있습니다.
 
 ## Resources
 
@@ -53,5 +53,5 @@
 <br>
 
 <p align="center">
-  <sub>AWS Student Builder Groups at University of Seoul &nbsp;·&nbsp; Learn, Build, Share, Connect &nbsp;·&nbsp; <a href="https://asbg-uos.vercel.app/en">English</a></sub>
+  <sub>AWS Student Builder Groups at University of Seoul &nbsp;·&nbsp; Learn, Build, Share, Connect &nbsp;·&nbsp; <a href="https://asbg.uos.ac.kr/en">English</a></sub>
 </p>
